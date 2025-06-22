@@ -2,7 +2,7 @@ import React from 'react';
 import './Home.css';
 
 const Home = () => {
-  const signUpUrl = "https://docs.google.com/forms/d/e/1FAIpQLSeUta-PM69uf5_-0hNKe_vGIF-U8J-KQYoHxKy_q1tD99A5bw/viewform?usp=header";
+  const signUpUrl = "https://forms.gle/YrbYZNT5Vqb5xq8c9";
 
   const JoinButton = () => (
     <a href={signUpUrl} target="_blank" rel="noopener noreferrer" className="join-button">

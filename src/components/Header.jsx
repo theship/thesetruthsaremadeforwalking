@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 import './Header.css';
 
 const Header = () => {
-  const signUpUrl = "https://docs.google.com/forms/d/e/1FAIpQLSeUta-PM69uf5_-0hNKe_vGIF-U8J-KQYoHxKy_q1tD99A5bw/viewform?usp=header";
+  const signUpUrl = "https://forms.gle/YrbYZNT5Vqb5xq8c9";
 
   return (
     <header className="app-header">
