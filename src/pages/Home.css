@@ -1,0 +1,91 @@
+.home-page section {
+  padding: 4rem 2rem;
+  max-width: 900px;
+  margin: 0 auto 3rem auto;
+  text-align: center;
+}
+
+.hero-section {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+
+.home-page h1 {
+  font-size: 3.5rem;
+  color: var(--vsa-yellow);
+  font-family: var(--heading-font);
+  font-weight: 300;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+.home-page h2 {
+  font-size: 2.2rem;
+  color: var(--vsa-yellow);
+  font-family: var(--heading-font);
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.home-page .subtitle {
+  font-size: 1.3rem;
+  color: var(--vsa-gray);
+  margin-bottom: 2.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.italic-note {
+  font-style: italic;
+  color: var(--vsa-gray);
+  margin-top: 1rem;
+}
+
+.join-button {
+  display: inline-block;
+  background-color: var(--vsa-yellow);
+  color: var(--vsa-blue);
+  border: none;
+  font-family: var(--heading-font);
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 1rem 3rem;
+  border-radius: 8px;
+  margin: 2.5rem auto 0 auto;
+  transition: background 0.2s, color 0.2s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  cursor: pointer;
+}
+
+.join-button:hover {
+  background-color: var(--vsa-orange);
+  color: var(--vsa-white);
+}
+
+.redeem-dream-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.question {
+  font-style: italic;
+  color: var(--vsa-gray);
+}
+
+.home-page .made-for-walking-section p {
+  margin: 1rem 0;
+  line-height: 1.6;
+}
+
+.democracy-motion-section h2 {
+  color: var(--vsa-orange);
+} 
