@@ -12,7 +12,7 @@ const About = () => {
   */
 
   // Placeholder video - replace with your own YouTube embed code
-  const videoEmbedUrl = "https://www.youtube.com/embed/dQw4w9WgXcQ"; 
+  const videoEmbedUrl = "https://www.youtube.com/embed/GM1kzbAgo_E"; 
 
   return (
     <div className="about-page">

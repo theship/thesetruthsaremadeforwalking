@@ -20,7 +20,7 @@ const Home = () => {
 
       <section className="these-truths-section text-center">
         <h2>THESE TRUTHS</h2>
-        <p>An updated history of the United States, written to inspire civic understanding and engagement.</p>
+        <p>Jill Lepore's updated history of the United States, written to inspire civic understanding and engagement.</p>
         <p className="italic-note">Let's read it together.</p>
         <JoinButton />
       </section>
